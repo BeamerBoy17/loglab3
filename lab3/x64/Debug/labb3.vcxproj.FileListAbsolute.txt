@@ -1,0 +1,6 @@
+C:\Users\tront\source\repos\lab3\x64\Debug\labb3.exe
+C:\Users\tront\source\repos\lab3\x64\Debug\labb3.pdb
+C:\code\Sanya\Lab 3 VS\x64\Debug\labb3.exe
+C:\code\Sanya\Lab 3 VS\x64\Debug\labb3.pdb
+C:\Users\tront\Downloads\Lab_3_VS\Lab 3 VS\x64\Debug\labb3.exe
+C:\Users\tront\Downloads\Lab_3_VS\Lab 3 VS\x64\Debug\labb3.pdb

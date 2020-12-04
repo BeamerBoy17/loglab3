@@ -1,0 +1,10 @@
+﻿  Matrix_Graph.cpp
+  operations.cpp
+C:\Users\tront\Downloads\Lab_3_VS\Lab 3 VS\operations.cpp(57,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tront\Downloads\Lab_3_VS\Lab 3 VS\operations.cpp(57,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tront\Downloads\Lab_3_VS\Lab 3 VS\operations.cpp(93,8): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+C:\Users\tront\Downloads\Lab_3_VS\Lab 3 VS\Source.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\tront\Downloads\Lab_3_VS\Lab 3 VS\operations.cpp(82): warning C4715: otojd: значение возвращается не при всех путях выполнения
+  labb3.vcxproj -> C:\Users\tront\Downloads\Lab_3_VS\Lab 3 VS\x64\Debug\labb3.exe
